@@ -1,14 +1,14 @@
 # Gestión del Tiempo
 Tips y estrategias para gestionar el tiempo en todos los ambitos de la vida.
 
-> **Importante:** Gran parte de lo aquí expuesto lo aprendí de Alexis Haselberger. Si quieres aprender más a fondo sobre gestión del tiempo mira [este curso](https://www.udemy.com/course/do-more-stress-less/) y conoce más sobre Alexis en su sitio: [alexishaselberger.com](https://www.alexishaselberger.com/)
+> **Importante:** Gran parte de lo aquí expuesto lo aprendí de **_Alexis Haselberger_**. Si quieres aprender más a fondo sobre gestión del tiempo mira [este curso](https://www.udemy.com/course/do-more-stress-less/) y conoce más sobre Alexis en su sitio: [alexishaselberger.com](https://www.alexishaselberger.com/)
 
 
 ## Sobre este repo
 Estoy en busqueda de las mejores **técnicas y estrategias para gestionar el tiempo** en el trabajo, en la vida personal y académica. Quiero ayudarme y ayudar a otras personas a dejar de decir "_no tengo tiempo_" "_estoy full_" "_se me olvidó_" "_planear y priozar me estresa_" "_no me alcanzó el tiempo_" "_Se me fué la paloma_" "_Algo se me está olvidando hmmm.._" y tambien para reducir el estrés, la ansiedad, el desorden y el fin último: Aprovechar más el tiempo y ser más productivos.
 
 ## Warning
-Los tips y tecnicas que encontraremos aquí no son ley, manual o bala de plata. Toma lo que funcione para ti; todos somos diferentes así que no tiene porque funcionar lo mismo en todos.
+Los tips y técnicas que encontraremos aquí no son ley, manual o bala de plata. Toma lo que funcione para tí; todos somos diferentes así que no tiene porque funcionar lo mismo en todos.
 
 
 # Para saber, reconocer e interiorizar
