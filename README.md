@@ -1,5 +1,7 @@
-# Time Management
+# Gestión del Tiempo
 Tips y estrategias para gestionar el tiempo en todos los ambitos de la vida.
+
+> **Importante:** Gran parte de lo aquí expuesto lo aprendí de Alexis Haselberger. Si quieres aprender más a fondo sobre gestión del tiempo mira [este curso](https://www.udemy.com/course/do-more-stress-less/) y conoce más sobre Alexis en su sitio: [alexishaselberger.com](https://www.alexishaselberger.com/)
 
 
 ## Sobre este repo
