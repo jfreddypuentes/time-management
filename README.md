@@ -1,5 +1,5 @@
 # Time Management
-Tips y estrategias para gestionar el valioso tiempo de nuestras vidas.
+Tips y estrategias para gestionar el tiempo en todos los ambitos de la vida.
 
 
 ## Sobre este repo
