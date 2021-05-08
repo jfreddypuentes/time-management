@@ -22,6 +22,7 @@ Los tips y técnicas que encontraremos aquí no son ley, manual o bala de plata.
 * Las personas introvertidas ganan/recargan energia al estar solas.
 * Tus circunstancias van a cambiar. (¿Nuevo trabajo? ¿nuevo hijo? ¿nuevo problema? ¿Nueva casa?)
 * Lo que no se mide no se puede mejorar.
+* Planear las cosas que vas a hacer te puede ahorrar hasta un 20% de tiempo.
 
 
 # Errores que cometemos
