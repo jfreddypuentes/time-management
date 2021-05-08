@@ -68,6 +68,7 @@ Los tips y técnicas que encontraremos aquí no son ley, manual o bala de plata.
 ## Mantener y repetir:
 * Mueve las tareas y actualizalas cuando cambien de estado o tengas nueva información. Si no haces esto entonces, todo lo anterior no sirve de nada.
 * Actualiza los estados de tareas al finalizar el día co mo se amás facil para ti.
+* Planear al final del día es más efectivo que planear en las mañanas.
 
 
 # Cosas cheveres que empezarán a pasar
